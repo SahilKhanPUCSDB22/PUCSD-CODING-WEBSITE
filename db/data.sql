@@ -1,4 +1,3 @@
-sahil khan
 drop table data;
 
 create table data

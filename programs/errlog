@@ -1,0 +1,104 @@
+Binding failed 
+Binding failed 
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Binding failed 
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Binding failed 
+Binding failed 
+Binding failed 
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:parts inclusion
+ERROR:  invalid input syntax for type bigint: ""
+CONTEXT:  unnamed portal parameter $1 = ''
+Query execution failed fun:data insertion
+ERROR:  invalid byte sequence for encoding "UTF8": 0xf6 0xe4 0xfc 0xdf
+CONTEXT:  unnamed portal parameter $1
+Query execution failed fun:data insertion
+ERROR:  invalid byte sequence for encoding "UTF8": 0xf6 0xe4 0xfc 0xdf
+CONTEXT:  unnamed portal parameter $1
+Userid , Type fetch failure
+Binding failed 

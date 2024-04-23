@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Welcome</title>
+<link rel="stylesheet" href="/csssnehal.css">
+</head>
+<body>
+<p><b>WELCOME</b> : 62</p><br>
+<p><b>Session Id :</b> RaFjv`?x\\K^MjseYvuen_aIsgUL?WdJ</p><br>
+<form action="/cgi-bin/update.cgi" method="post">
+<label for="value">Enter the value:</label>
+<input type="text" id="value" name="val" value= "pucs" required><br>
+<input type="text" id="xyz" name="id" value="62">
+<button> Submit </button><br>
+</form>
+<p><a href="/login.html">Click here to Logout</a></p>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Welcome</title>
+<link rel="stylesheet" href="/css-bin/csssnehal.css">
+</head>
+<body>
+<p><b>WELCOME</b> : 02802513376623107626715062613403</p><br>
+<p><b>Session Id :</b> 62</p><br>
+<p><a href="#" onclick="upload()">Click here to Upload Files</a></p>
+<p><a href="#" onclick="viewuploads()">Click here to view Uploaded Files</a></p>
+<p><a href="/login.html">Click here to Logout</a></p>
+<script>
+function upload() {
+ var form = document.createElement('form');
+form.method = 'POST';
+form.action = '/cgi-bin/upload.cgi';
+form.style.display='none'
+var session=document.createElement('input');
+session.type='hidden';
+session.name='sessionid';
+session.value='02802513376623107626715062613403';
+form.appendChild(session);
+document.body.appendChild(form);
+form.submit();
+}
+</script>
+</body>
+</html>
